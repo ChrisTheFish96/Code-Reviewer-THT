@@ -1,8 +1,8 @@
-# Program to check both ISBN10 and ISBN13 numbers to determine if they are valid.
+# Program to check ISBN10 and ISBN13 numbers to determine if they are valid.
 
 # Function is defined to allow for user ISBN input.
 def isbn_validation(user_isbn):
-    # Returns "Invalid" if user input nothing.
+    # Returns "Invalid" if user inputs nothing.
     if not user_isbn:
         return "Invalid"
 
@@ -11,7 +11,7 @@ def isbn_validation(user_isbn):
     isbn10_multiply = [10,9,8,7,6,5,4,3,2,1]
     isbn13_multiply = [1,3,1,3,1,3,1,3,1,3,1,3,1]
     
-    # Possible "x" after input is replaced with a "10" and characters are converted to ints.
+    # Possible "x" after input is replaced with "10" and characters are converted to integers.
     if isbn_list[-1].lower() == "x":
         isbn_list[-1] = "10"
     else:
@@ -47,6 +47,6 @@ def isbn_validation(user_isbn):
         else:
             return "Invalid"
             
-    # Section to run if the numbers are anything but 10 or 13 characters long.
+    # Section to run if the numbers are not 10 or 13 characters long.
     else:
         return "Invalid"
