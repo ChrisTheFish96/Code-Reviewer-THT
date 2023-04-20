@@ -16,7 +16,7 @@ A test suite is included and can be run to test the function.
 To run this program follow the following steps:
 1. Clone the repository to your local machine.
 1. Make sure you have docker installed, if not install it first then continue here.
-1. Run the command `docker build -t [image_name]`.
+1. Run the command `docker build -t [image_name] .`.
 1. Once the image is built, run `docker run [image_name] [ISBN_number]` where you replace the `[ISBN_NUMBER]` with the number you want to check.
 
 Included in the cloned repository is also a test tuite to ensure the function is accurate.
