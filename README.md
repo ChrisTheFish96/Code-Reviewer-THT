@@ -16,4 +16,4 @@
     * I have created a markdown file looking at the space complexity of my created function in this folder as well.
 1. Section D
     * Here I will provide a link to a loom video in which I answered the questions asked within the take home test for you to get to know me better as well as to explain my backups in the event of power outages.
-    * Loom video: 
+    * Loom video: https://www.loom.com/share/b701770d67834c3688fdd45dee142474
