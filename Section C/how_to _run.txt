@@ -1,8 +1,8 @@
 The following steps is designed to help you run the isbn_valid program test suite:
-1.	Firstly ensure that you have the main code file called isbn_valid.py
-2.	Install Python 3 if you dont have it installed already, by following your specific operating system instructions.
-3.	In the terminal window or command prompth nevigate to the directory in which isbn_valid.py is saved.
-4.	'unittest should already be available to you as part of pythons standard library.
-	if not, however, you can install it by running 'pip install unittest' in ther terminal or command prompt.
-5.	Run the test suite by running 'python -m unittest
-6.	You can then view the results of the test suite in the terminal or command prompt
+1.	Firstly, ensure that the main code file is called isbn_valid.py.
+2.	Install Python 3 if you don't already have it installed, by following your specific operating system instructions.
+3.	In the terminal window or command prompt, nevigate to the directory where isbn_valid.py is saved.
+4.	'unittest' should already be available to you as part of Python's standard library.
+	If not, you can install it by running 'pip install unittest' in the terminal or command prompt.
+5.	Run the test suite by running 'python -m unittest'.
+6.	You can then view the results of the test suite in the terminal or command prompt.
