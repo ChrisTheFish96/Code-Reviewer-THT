@@ -13,7 +13,7 @@ The code can be copied into any code editor.
 Comments are available in the code to explain what each section does.
 A test suite is included and can be run to test the function.
 
-To run this program follow the following steps:
+To run this program, follow the following steps:
 1. Clone the repository to your local machine.
 1. Make sure you have docker installed, if not install it first then continue here.
 1. Run the command `docker build -t [image_name] .`.
@@ -22,7 +22,7 @@ To run this program follow the following steps:
 Included in the cloned repository is also a test tuite to ensure the function is accurate.
 To run the test suite:
 1. Follow the same steps for installation above.
-1. Enter the command `python test_isbn.py`.
+1. Enter the command `python test_isbn.py [ISBN_number]`.
 1. This will run the tests and provide its output in the terminal.
  
 ## Usage
