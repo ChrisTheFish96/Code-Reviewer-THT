@@ -6,4 +6,4 @@ This Is the link to a project that I am quite proud of. It is a type of task man
 Even though this is not a very complex project, it challenged me quite a but an I learned the importance of using basig principles like for loops, if statements, while loops and dictionaries together to make a well functioning program that can determine what to put in the command console based on which user is logged in to the program.
 
 ## URL
-*https://github.com/ChrisTheFish96/Task-manager
+https://github.com/ChrisTheFish96/Task-manager
