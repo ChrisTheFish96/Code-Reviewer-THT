@@ -22,7 +22,7 @@ To run this program, follow the following steps:
 Included in the cloned repository is also a test tuite to ensure the function is accurate.
 To run the test suite:
 1. Follow the same steps for installation above.
-1. Enter the command `python test_isbn.py [ISBN_number]`.
+1. Enter the command `python test_isbn.py`.
 1. This will run the tests and provide its output in the terminal.
  
 ## Usage
