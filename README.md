@@ -2,9 +2,9 @@
 
 ## Contents
 1. Section A
-  * I did a code review on option C of the take-home test which was on a Caesar Cypher in TypeScript.
-  * In the Section A folder is a markdown file with the review looking at completeness, efficiency, style and documentation.
-  * I have also included the positive aspects and possible improvements that could be made in the piece of code provided.
+   * I did a code review on option C of the take-home test which was on a Caesar Cypher in TypeScript.
+   * In the Section A folder is a markdown file with the review looking at completeness, efficiency, style and documentation.
+   * I have also included the positive aspects and possible improvements that could be made in the piece of code provided.
 1. Section B
   * Task requirements can be found in the Section B folder.
   * I have included a README file with more information on the task as well as a text file with the URL to the repository.
