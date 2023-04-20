@@ -10,7 +10,7 @@ In this instance, the alphabet is hardcoded and relatively small, so the impact 
 The code follows good TypeScript practices. The chosen variable names are descriptive and follow camelCase naming conventions. The code is also commented well which makes it easy to understand what each section is doing. Code is also indented nicely and whitespace is used effectively.
 
 ## Documentation
-Code is well commented but lacks an overall explanation of what the program aims to do or how it should be used, which would be helpful as it will give a reader a quick brief understanding of the program without having to go through the whole function and read comments.
+Code is well commented but lacks an overall explanation of what the program aims to do or how it should be used, which would be helpful as it will give a reader an understanding of the program without having to go through the whole function and read comments.
 
 ## Positive Aspects and Improvements
 1. Positive Aspects:
